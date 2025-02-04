@@ -74,7 +74,7 @@ DeviceFileEvents
 
 ## Created By:
 - **Author Name**: Rashod Coleman
-- **Author Contact**: linkedin.com/in/rashodcoleman
+- **Author Contact**: https://linkedin.com/in/rashodcoleman
 - **Date**: August 31, 2024
 
 ## Validated By:
